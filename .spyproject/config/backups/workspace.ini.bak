@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['src/functions.py', 'analysis/squads.py', 'src/api_extract/_01_basic.py', 'src/api_extract/_05_matchs.py', 'analysis/matchs.py', 'analysis/physical.py']
+
+[main]
+version = 0.2.0
+recent_files = []
+
