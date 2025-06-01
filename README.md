@@ -23,10 +23,7 @@ This project provides a statistical and visual analysis of player and match data
 - seaborn >= 0.11  
 - Jupyter Notebook (optional but recommended)
 
-Install dependencies with:
-
-```bash
-pip install -r requirements.txt
+Install dependencies: install equirements.txt
 
 
 🚀 How to Run
