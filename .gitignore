@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-*.json
-*.xlsx
+<<<<<< HEAD
+
 =======
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -8,8 +7,8 @@ __pycache__/
 *$py.class
 
 #data 
-*.json
-*.xlsx
+
+
 
 # C extensions
 *.so
