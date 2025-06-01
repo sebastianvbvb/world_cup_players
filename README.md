@@ -17,11 +17,14 @@ This project provides a statistical and visual analysis of player and match data
 
 ## 📦 Requirements
 
-- Python 3.8 or higher  
-- pandas >= 1.0  
-- matplotlib >= 3.0  
-- seaborn >= 0.11  
-- Jupyter Notebook (optional but recommended)
+- beautifulsoup4==4.13.4
+- matplotlib==3.8.0
+- numpy==2.2.6
+- pandas==2.2.3
+- python_dateutil==2.8.2
+- pywaffle==1.1.0
+- Requests==2.32.3
+- seaborn==0.13.2
 
 Install dependencies: install equirements.txt
 
