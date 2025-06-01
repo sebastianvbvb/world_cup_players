@@ -7,7 +7,8 @@ __pycache__/
 *$py.class
 
 #data 
-
+data/raw/*.json
+data/raw/*.xlsx
 
 
 # C extensions
