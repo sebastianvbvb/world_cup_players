@@ -27,3 +27,18 @@ Install dependencies with:
 
 ```bash
 pip install -r requirements.txt
+
+
+🚀 How to Run
+The project is structured in different stages:
+
+1. 📥 Data Extraction
+Scripts located in src/api_extract/ are used to retrieve data from the worldfootball.net API.
+a) These scripts save raw data into the data/json.
+b) _json_to_excel.py transforms this JSON data into Excel files.
+
+
+2. 📊 Data Analysis
+All analysis scripts are located in the analysis/ folder.
+Each script is independent and focuses on a specific aspect of the data.
+You can run them separately if you need to.
